@@ -1,3 +1,4 @@
+## React Navigation configuration
 If you're on a Mac and developing for iOS, you need to install the pods (via Cocoapods) to complete the linking.
 
 `npx pod-install ios`
